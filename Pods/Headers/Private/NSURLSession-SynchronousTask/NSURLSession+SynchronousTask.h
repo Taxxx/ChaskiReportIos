@@ -1,0 +1,5 @@
+XSym
+0097
+5731995df340a00f71dc79fe22578831
+../../../NSURLSession-SynchronousTask/NSURLSession+SynchronousTask/NSURLSession+SynchronousTask.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
